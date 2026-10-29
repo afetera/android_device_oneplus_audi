@@ -13,7 +13,7 @@ $(call inherit-product, device/oneplus/audi/device.mk)
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 
-PRODUCT_NAME := lineage_audi
+PRODUCT_NAME := twrp_audi
 PRODUCT_DEVICE := audi
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
