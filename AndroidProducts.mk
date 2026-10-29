@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_audi.mk
+    $(LOCAL_DIR)/twrp_audi.mk
